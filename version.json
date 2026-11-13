@@ -1,6 +1,7 @@
 {
   "versionCode": 1,
-  "versionName": "2.4.0",
-  "apkUrl": "https://github.com/Les-Man/WatchBox/archive/refs/tags/2.4.0.zip",
-  "releaseNotes": "filter correction in series. Subtitles should now be disabled by default."
+  "versionName": "1.0",
+  "downloadUrl": "https://github.com/Les-Man/WatchBox/releases/download/v1.0.0/WatchBoxTV.apk",
+  "releaseNotes": "First official release of WatchBox TV.",
+  "mandatory": false
 }
